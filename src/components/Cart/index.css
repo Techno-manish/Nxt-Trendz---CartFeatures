@@ -37,4 +37,14 @@
   }
 }
 
+.remove-all-btn {
+  height: 2.5rem;
+  width: 8rem;
+  align-self: flex-end;
+  color: #ffffff;
+  background-color: #0967d2;
+  border: none;
+  border-radius: 4px;
+}
+
 /* Write your CSS here */
